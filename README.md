@@ -82,3 +82,15 @@ This repository is a work in progress. New problems and topics will be added as 
 ---
 
 **DSA Practice | Java | LeetCode**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+<!---LeetCode Topics End-->
