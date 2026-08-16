@@ -88,9 +88,38 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Array
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Math
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
