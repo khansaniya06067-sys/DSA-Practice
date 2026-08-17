@@ -88,6 +88,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Array
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
@@ -97,6 +98,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Math
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -113,6 +115,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -122,4 +125,8 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
