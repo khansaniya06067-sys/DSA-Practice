@@ -90,6 +90,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | ------- |
 | [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -129,4 +130,8 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
+## Hash Table
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
