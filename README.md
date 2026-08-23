@@ -105,6 +105,7 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -112,6 +113,7 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -125,6 +127,7 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -159,4 +162,8 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
