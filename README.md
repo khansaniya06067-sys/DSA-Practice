@@ -168,4 +168,9 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
