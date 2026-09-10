@@ -228,4 +228,16 @@ This repository is a work in progress. New problems and topics will be added as 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
