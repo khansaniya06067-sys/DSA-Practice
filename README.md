@@ -96,6 +96,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -163,6 +164,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -197,6 +199,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
@@ -240,4 +243,8 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
