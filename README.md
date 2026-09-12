@@ -95,6 +95,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -159,6 +160,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +178,7 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -214,6 +217,7 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
