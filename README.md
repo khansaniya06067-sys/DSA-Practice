@@ -88,6 +88,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
@@ -229,6 +230,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
