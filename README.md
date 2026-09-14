@@ -116,6 +116,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
@@ -253,4 +254,8 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
