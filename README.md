@@ -186,6 +186,7 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -209,6 +210,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | [1927-sum-game](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
