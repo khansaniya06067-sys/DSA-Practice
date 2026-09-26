@@ -183,6 +183,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -218,6 +219,7 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1927-sum-game) |
@@ -250,6 +252,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -260,6 +263,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -298,4 +302,12 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
