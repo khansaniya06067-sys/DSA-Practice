@@ -89,6 +89,7 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0075-sort-colors) |
 | [0835-image-overlap](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -250,6 +251,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0075-sort-colors) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
@@ -259,6 +261,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0075-sort-colors) |
 | [1096-brace-expansion-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -328,4 +331,12 @@ This repository is a work in progress. New problems and topics will be added as 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
