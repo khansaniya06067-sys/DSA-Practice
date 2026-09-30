@@ -88,6 +88,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0001-two-sum) |
 | [0835-image-overlap](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -185,6 +186,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0001-two-sum) |
 | [1096-brace-expansion-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
