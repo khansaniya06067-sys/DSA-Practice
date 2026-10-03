@@ -89,6 +89,7 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0075-sort-colors) |
 | [0835-image-overlap](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -125,6 +126,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0066-plus-one) |
 | [0836-rectangle-overlap](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
