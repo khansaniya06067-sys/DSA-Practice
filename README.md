@@ -201,6 +201,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -243,6 +244,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
