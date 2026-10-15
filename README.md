@@ -104,6 +104,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | [2333-minimum-sum-of-squared-difference](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -215,6 +216,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -349,6 +351,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 ## Backtracking
 |  |
@@ -397,4 +400,8 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
