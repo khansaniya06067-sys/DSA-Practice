@@ -283,6 +283,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | [3498-reverse-degree-of-a-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
