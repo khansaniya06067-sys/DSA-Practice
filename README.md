@@ -149,6 +149,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3524-find-x-value-of-array-i](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
@@ -281,6 +282,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
