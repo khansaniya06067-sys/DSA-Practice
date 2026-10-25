@@ -92,6 +92,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | [0066-plus-one](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0075-sort-colors) |
 | [0835-image-overlap](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
@@ -312,6 +313,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -336,11 +338,13 @@ This repository is a work in progress. New problems and topics will be added as 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -358,6 +362,7 @@ This repository is a work in progress. New problems and topics will be added as 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
