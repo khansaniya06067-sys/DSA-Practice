@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28">4205. Minimum XOR Path in a Grid</a></h2><h3>Medium</h3><hr><p>You are given a 2D integer array <code>grid</code> of size <code>m * n</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-xor-path-in-a-grid/?envType=daily-question&envId=2026-10-28">3882. Minimum XOR Path in a Grid</a></h2><h3>Medium</h3><hr><p>You are given a 2D integer array <code>grid</code> of size <code>m * n</code>.</p>
 
 <p>You start at the <strong>top-left</strong> cell <code>(0, 0)</code> and want to reach the <strong>bottom-right</strong> cell <code>(m - 1, n - 1)</code>.</p>
 
