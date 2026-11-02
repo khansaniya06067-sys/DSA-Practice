@@ -92,6 +92,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | [0066-plus-one](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0075-sort-colors) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -151,6 +152,7 @@ This repository is a work in progress. New problems and topics will be added as 
 | ------- |
 | [0066-plus-one](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1563-stone-game-v) |
@@ -333,6 +335,7 @@ This repository is a work in progress. New problems and topics will be added as 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0075-sort-colors) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khansaniya06067-sys/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
